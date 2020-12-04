@@ -1,0 +1,117 @@
+C:\Users\ISHAN\Documents\Visual Studio 2010\Projects\HMS\HMS\bin\Debug\HMS.exe
+C:\Users\ISHAN\Documents\Visual Studio 2010\Projects\HMS\HMS\bin\Debug\HMS.pdb
+C:\Users\ISHAN\Documents\Visual Studio 2010\Projects\HMS\HMS\obj\x86\Debug\HMS.FormAdmin.resources
+C:\Users\ISHAN\Documents\Visual Studio 2010\Projects\HMS\HMS\obj\x86\Debug\HMS.FormAdminReg.resources
+C:\Users\ISHAN\Documents\Visual Studio 2010\Projects\HMS\HMS\obj\x86\Debug\HMS.FormDoctorReg.resources
+C:\Users\ISHAN\Documents\Visual Studio 2010\Projects\HMS\HMS\obj\x86\Debug\HMS.FormHome.resources
+C:\Users\ISHAN\Documents\Visual Studio 2010\Projects\HMS\HMS\obj\x86\Debug\HMS.FormLogin.resources
+C:\Users\ISHAN\Documents\Visual Studio 2010\Projects\HMS\HMS\obj\x86\Debug\HMS.FormPharmasistReg.resources
+C:\Users\ISHAN\Documents\Visual Studio 2010\Projects\HMS\HMS\obj\x86\Debug\HMS.FormStudentReg.resources
+C:\Users\ISHAN\Documents\Visual Studio 2010\Projects\HMS\HMS\obj\x86\Debug\HMS.Properties.Resources.resources
+C:\Users\ISHAN\Documents\Visual Studio 2010\Projects\HMS\HMS\obj\x86\Debug\HMS.csproj.GenerateResource.Cache
+C:\Users\ISHAN\Documents\Visual Studio 2010\Projects\HMS\HMS\obj\x86\Debug\HMS.exe
+C:\Users\ISHAN\Documents\Visual Studio 2010\Projects\HMS\HMS\obj\x86\Debug\HMS.pdb
+C:\Users\ISHAN\Documents\Visual Studio 2010\Projects\HMS\HMS\obj\x86\Debug\HMS.FormMedHistory.resources
+C:\Users\ISHAN\Documents\Visual Studio 2010\Projects\HMS\HMS\obj\x86\Debug\HMS.FormInventory.resources
+C:\Users\ISHAN\Documents\Visual Studio 2010\Projects\HMS\HMS\obj\x86\Debug\HMS.FormDoctor.resources
+F:\HMS\HMS\obj\x86\Debug\HMS.exe
+F:\HMS\HMS\obj\x86\Debug\HMS.pdb
+C:\Users\SenZone\Desktop\HMS\HMS\obj\x86\Debug\HMS.exe
+C:\Users\SenZone\Desktop\HMS\HMS\obj\x86\Debug\HMS.pdb
+C:\Users\SenZone\Desktop\HMS\HMS\bin\Debug\HMS.exe
+C:\Users\SenZone\Desktop\HMS\HMS\bin\Debug\HMS.pdb
+C:\Users\SenZone\Desktop\HMS\HMS\obj\x86\Debug\HMS.FormAdmin.resources
+C:\Users\SenZone\Desktop\HMS\HMS\obj\x86\Debug\HMS.FormAdminReg.resources
+C:\Users\SenZone\Desktop\HMS\HMS\obj\x86\Debug\HMS.FormDoctor.resources
+C:\Users\SenZone\Desktop\HMS\HMS\obj\x86\Debug\HMS.FormDoctorReg.resources
+C:\Users\SenZone\Desktop\HMS\HMS\obj\x86\Debug\HMS.FormHome.resources
+C:\Users\SenZone\Desktop\HMS\HMS\obj\x86\Debug\HMS.FormInventory.resources
+C:\Users\SenZone\Desktop\HMS\HMS\obj\x86\Debug\HMS.FormLogin.resources
+C:\Users\SenZone\Desktop\HMS\HMS\obj\x86\Debug\HMS.FormMedHistory.resources
+C:\Users\SenZone\Desktop\HMS\HMS\obj\x86\Debug\HMS.FormPharmasistReg.resources
+C:\Users\SenZone\Desktop\HMS\HMS\obj\x86\Debug\HMS.FormStudentReg.resources
+C:\Users\SenZone\Desktop\HMS\HMS\obj\x86\Debug\HMS.Properties.Resources.resources
+C:\Users\SenZone\Desktop\HMS\HMS\obj\x86\Debug\HMS.csproj.GenerateResource.Cache
+C:\Users\SenZone\Desktop\HMS\HMS\obj\x86\Debug\HMS.FormPharmasist.resources
+C:\Users\SenZone\Desktop\HMS\HMS\obj\x86\Debug\HMS.FormStudent.resources
+C:\Users\SenZone\Desktop\HMS\HMS\bin\Debug\MySql.Data.DLL
+C:\Users\ISHAN\Desktop\HMS\HMS\obj\x86\Debug\HMS.exe
+C:\Users\ISHAN\Desktop\HMS\HMS\obj\x86\Debug\HMS.pdb
+C:\Users\The Compiler\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\x86\Debug\HMS.exe
+C:\Users\The Compiler\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\x86\Debug\HMS.pdb
+C:\Users\The Compiler\Documents\Visual Studio 2015\Projects\HMS\HMS\bin\Debug\HMS.exe
+C:\Users\The Compiler\Documents\Visual Studio 2015\Projects\HMS\HMS\bin\Debug\HMS.pdb
+C:\Users\The Compiler\Documents\Visual Studio 2015\Projects\HMS\HMS\bin\Debug\MySql.Data.DLL
+C:\Users\The Compiler\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\x86\Debug\HMS.FormAdmin.resources
+C:\Users\The Compiler\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\x86\Debug\HMS.FormAdminReg.resources
+C:\Users\The Compiler\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\x86\Debug\HMS.FormDoctor.resources
+C:\Users\The Compiler\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\x86\Debug\HMS.FormDoctorReg.resources
+C:\Users\The Compiler\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\x86\Debug\HMS.FormHome.resources
+C:\Users\The Compiler\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\x86\Debug\HMS.FormInventory.resources
+C:\Users\The Compiler\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\x86\Debug\HMS.FormLogin.resources
+C:\Users\The Compiler\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\x86\Debug\HMS.FormMedHistory.resources
+C:\Users\The Compiler\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\x86\Debug\HMS.FormPharmasist.resources
+C:\Users\The Compiler\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\x86\Debug\HMS.FormPharmasistReg.resources
+C:\Users\The Compiler\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\x86\Debug\HMS.FormStudent.resources
+C:\Users\The Compiler\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\x86\Debug\HMS.FormStudentReg.resources
+C:\Users\The Compiler\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\x86\Debug\HMS.Properties.Resources.resources
+C:\Users\The Compiler\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\x86\Debug\HMS.csproj.GenerateResource.Cache
+C:\Users\The Compiler\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\x86\Debug\HMS.Users.resources
+C:\Users\The Compiler\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\x86\Debug\HMS.feefback.resources
+C:\Users\The Compiler\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\x86\Debug\HMS.warnings.resources
+C:\Users\The Compiler\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\x86\Debug\HMS.drugIssued.resources
+C:\Users\The Compiler\Documents\Visual Studio 2015\Projects\HMS\HMS\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\The Compiler\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\x86\Debug\HMS.updateprofile.resources
+C:\Users\The Compiler\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\x86\Debug\HMS.csprojResolveAssemblyReference.cache
+F:\old\doc\Visual Studio 2015\Projects\HMS\HMS\obj\x86\Debug\HMS.exe
+F:\old\doc\Visual Studio 2015\Projects\HMS\HMS\obj\x86\Debug\HMS.pdb
+F:\old\doc\Visual Studio 2015\Projects\HMS\HMS\bin\Debug\HMS.exe
+F:\old\doc\Visual Studio 2015\Projects\HMS\HMS\bin\Debug\HMS.pdb
+F:\old\doc\Visual Studio 2015\Projects\HMS\HMS\bin\Debug\MySql.Data.DLL
+F:\old\doc\Visual Studio 2015\Projects\HMS\HMS\bin\Debug\Tulpep.NotificationWindow.dll
+F:\old\doc\Visual Studio 2015\Projects\HMS\HMS\obj\x86\Debug\HMS.csprojResolveAssemblyReference.cache
+F:\old\doc\Visual Studio 2015\Projects\HMS\HMS\obj\x86\Debug\HMS.drugIssued.resources
+F:\old\doc\Visual Studio 2015\Projects\HMS\HMS\obj\x86\Debug\HMS.feefback.resources
+F:\old\doc\Visual Studio 2015\Projects\HMS\HMS\obj\x86\Debug\HMS.FormAdmin.resources
+F:\old\doc\Visual Studio 2015\Projects\HMS\HMS\obj\x86\Debug\HMS.FormAdminReg.resources
+F:\old\doc\Visual Studio 2015\Projects\HMS\HMS\obj\x86\Debug\HMS.FormDoctor.resources
+F:\old\doc\Visual Studio 2015\Projects\HMS\HMS\obj\x86\Debug\HMS.FormDoctorReg.resources
+F:\old\doc\Visual Studio 2015\Projects\HMS\HMS\obj\x86\Debug\HMS.FormHome.resources
+F:\old\doc\Visual Studio 2015\Projects\HMS\HMS\obj\x86\Debug\HMS.FormInventory.resources
+F:\old\doc\Visual Studio 2015\Projects\HMS\HMS\obj\x86\Debug\HMS.FormLogin.resources
+F:\old\doc\Visual Studio 2015\Projects\HMS\HMS\obj\x86\Debug\HMS.FormMedHistory.resources
+F:\old\doc\Visual Studio 2015\Projects\HMS\HMS\obj\x86\Debug\HMS.FormPharmasist.resources
+F:\old\doc\Visual Studio 2015\Projects\HMS\HMS\obj\x86\Debug\HMS.FormPharmasistReg.resources
+F:\old\doc\Visual Studio 2015\Projects\HMS\HMS\obj\x86\Debug\HMS.FormStudent.resources
+F:\old\doc\Visual Studio 2015\Projects\HMS\HMS\obj\x86\Debug\HMS.FormStudentReg.resources
+F:\old\doc\Visual Studio 2015\Projects\HMS\HMS\obj\x86\Debug\HMS.Properties.Resources.resources
+F:\old\doc\Visual Studio 2015\Projects\HMS\HMS\obj\x86\Debug\HMS.updateprofile.resources
+F:\old\doc\Visual Studio 2015\Projects\HMS\HMS\obj\x86\Debug\HMS.Users.resources
+F:\old\doc\Visual Studio 2015\Projects\HMS\HMS\obj\x86\Debug\HMS.warnings.resources
+F:\old\doc\Visual Studio 2015\Projects\HMS\HMS\obj\x86\Debug\HMS.csproj.GenerateResource.Cache
+C:\Users\Hasintha\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\x86\Debug\HMS.exe
+C:\Users\Hasintha\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\x86\Debug\HMS.pdb
+C:\Users\Hasintha\Documents\Visual Studio 2015\Projects\HMS\HMS\bin\Debug\HMS.exe
+C:\Users\Hasintha\Documents\Visual Studio 2015\Projects\HMS\HMS\bin\Debug\HMS.pdb
+C:\Users\Hasintha\Documents\Visual Studio 2015\Projects\HMS\HMS\bin\Debug\MySql.Data.DLL
+C:\Users\Hasintha\Documents\Visual Studio 2015\Projects\HMS\HMS\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\Hasintha\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\x86\Debug\HMS.csprojResolveAssemblyReference.cache
+C:\Users\Hasintha\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\x86\Debug\HMS.drugIssued.resources
+C:\Users\Hasintha\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\x86\Debug\HMS.feefback.resources
+C:\Users\Hasintha\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\x86\Debug\HMS.FormAdmin.resources
+C:\Users\Hasintha\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\x86\Debug\HMS.FormAdminReg.resources
+C:\Users\Hasintha\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\x86\Debug\HMS.FormDoctor.resources
+C:\Users\Hasintha\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\x86\Debug\HMS.FormDoctorReg.resources
+C:\Users\Hasintha\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\x86\Debug\HMS.FormHome.resources
+C:\Users\Hasintha\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\x86\Debug\HMS.FormInventory.resources
+C:\Users\Hasintha\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\x86\Debug\HMS.FormLogin.resources
+C:\Users\Hasintha\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\x86\Debug\HMS.FormMedHistory.resources
+C:\Users\Hasintha\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\x86\Debug\HMS.FormPharmasist.resources
+C:\Users\Hasintha\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\x86\Debug\HMS.FormPharmasistReg.resources
+C:\Users\Hasintha\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\x86\Debug\HMS.FormStudent.resources
+C:\Users\Hasintha\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\x86\Debug\HMS.FormStudentReg.resources
+C:\Users\Hasintha\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\x86\Debug\HMS.Properties.Resources.resources
+C:\Users\Hasintha\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\x86\Debug\HMS.updateprofile.resources
+C:\Users\Hasintha\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\x86\Debug\HMS.Users.resources
+C:\Users\Hasintha\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\x86\Debug\HMS.warnings.resources
+C:\Users\Hasintha\Documents\Visual Studio 2015\Projects\HMS\HMS\obj\x86\Debug\HMS.csproj.GenerateResource.Cache
